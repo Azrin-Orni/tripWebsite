@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tripwebsite/static/css/main.37113aaa.css",
+    "main.js": "/tripwebsite/static/js/main.c6478375.js",
+    "static/media/video.mp4": "/tripwebsite/static/media/video.614e06fd461fbfa1053d.mp4",
+    "static/media/map.jpg": "/tripwebsite/static/media/map.ad8fe913ed37a1d70183.jpg",
+    "static/media/image (9).png": "/tripwebsite/static/media/image (9).b24eb77685acf436e7e6.png",
+    "static/media/image (8).jpg": "/tripwebsite/static/media/image (8).c70259668d60252adb0a.jpg",
+    "static/media/image (6).jpg": "/tripwebsite/static/media/image (6).f00e850c13d51cf3fd68.jpg",
+    "static/media/image (10).png": "/tripwebsite/static/media/image (10).cf49f8a7dbce0ac60eb5.png",
+    "static/media/image (7).jpg": "/tripwebsite/static/media/image (7).c3fbb71b1b77e82319c9.jpg",
+    "static/media/image (5).png": "/tripwebsite/static/media/image (5).bd4b180045a595c8351b.png",
+    "static/media/image (5).jpg": "/tripwebsite/static/media/image (5).7cd867b2ae0c10963288.jpg",
+    "static/media/bgImage.jpg": "/tripwebsite/static/media/bgImage.c0ab47fa54d0bc58b409.jpg",
+    "static/media/india.jpg": "/tripwebsite/static/media/india.36eabf7867691347ab71.jpg",
+    "static/media/image (2).jpg": "/tripwebsite/static/media/image (2).93c95f7056d7ae88582b.jpg",
+    "static/media/image (3).png": "/tripwebsite/static/media/image (3).6b19b2f5ae0ab2316b2f.png",
+    "static/media/image (2).png": "/tripwebsite/static/media/image (2).0884c23c2a0bcd4f6a73.png",
+    "static/media/customer.png": "/tripwebsite/static/media/customer.fde0ba2068c0e1085a0c.png",
+    "index.html": "/tripwebsite/index.html",
+    "main.37113aaa.css.map": "/tripwebsite/static/css/main.37113aaa.css.map",
+    "main.c6478375.js.map": "/tripwebsite/static/js/main.c6478375.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37113aaa.css",
+    "static/js/main.c6478375.js"
+  ]
+}
